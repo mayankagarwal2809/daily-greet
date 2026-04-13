@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Greet ✨ — A New Way to Say Hello Every Day</title>
+  <meta name="description" content="Get a fresh, creative greeting every single day to share with your team!" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { outfit: ['Outfit', 'sans-serif'] },
+          colors: {
+            wblue: { 100: '#0053e2', 110: '#0046c5', 130: '#002d80' },
+            wspark: { 10: '#fff8e6', 100: '#ffc220', 140: '#995213' },
+            wgray: { 10: '#f8f8f8', 50: '#c0c0c0', 100: '#74767c', 160: '#2e2f32' },
+          },
+        },
+      },
+    };
+  </script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👋</text></svg>" />
+  <style>
+    body { font-family: 'Outfit', sans-serif; }
+    .fade-in { animation: fadeIn 0.8s ease-out; }
+    .slide-up { animation: slideUp 0.6s ease-out; }
+    .bounce-in { animation: bounceIn 0.8s cubic-bezier(0.34, 1.56, 0.64, 1); }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes slideUp { from { opacity: 0; transform: translateY(30px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes bounceIn { from { opacity: 0; transform: scale(0.3); } to { opacity: 1; transform: scale(1); } }
+    .greeting-card {
+      background: linear-gradient(135deg, #0053e2 0%, #002d80 100%);
+      box-shadow: 0 20px 60px rgba(0, 83, 226, 0.3);
+    }
+    .toast { animation: toastIn 0.3s ease-out, toastOut 0.3s ease-in 1.7s forwards; }
+    @keyframes toastIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes toastOut { from { opacity: 1; } to { opacity: 0; } }
+  </style>
+</head>
+<body class="min-h-screen bg-white text-wgray-160">
+  <div class="min-h-screen flex flex-col">
+    <!-- Header -->
+    <header class="py-6 px-4 text-center fade-in">
+      <div class="flex items-center justify-center gap-2 mb-1">
+        <span class="text-3xl bounce-in" style="animation-delay: 0.2s">👋</span>
+        <h1 class="text-2xl md:text-3xl font-extrabold tracking-tight text-wgray-160">
+          Daily <span class="text-wblue-100">Greet</span>
+        </h1>
+      </div>
+      <p class="text-wgray-100 text-sm">A fresh way to greet your team — every single day</p>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex-1 flex items-center justify-center px-4 pb-12">
+      <div class="w-full max-w-xl">
+        <!-- Date Display -->
+        <div class="text-center mb-6 slide-up">
+          <p class="text-sm font-semibold text-wgray-100 uppercase tracking-widest" id="date-label"></p>
+          <p class="text-xs text-wgray-50 mt-1" id="day-count"></p>
+        </div>
+
+        <!-- Greeting Card -->
+        <div class="greeting-card rounded-2xl p-8 md:p-10 text-center text-white slide-up" style="animation-delay: 0.15s">
+          <p class="text-4xl mb-4" id="greeting-emoji"></p>
+          <h2 class="text-2xl md:text-3xl font-bold leading-snug mb-3" id="greeting-text"></h2>
+          <p class="text-blue-200 text-sm italic" id="greeting-tip"></p>
+        </div>
+
+        <!-- Actions -->
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-3 mt-6 slide-up" style="animation-delay: 0.3s">
+          <button
+            onclick="copyGreeting()"
+            class="w-full sm:w-auto flex items-center justify-center gap-2 bg-wblue-100 hover:bg-wblue-110 active:bg-wblue-130 text-white font-semibold py-3 px-6 rounded-xl transition-colors focus:outline-none focus:ring-2 focus:ring-wblue-100 focus:ring-offset-2"
+            aria-label="Copy greeting to clipboard"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+            Copy Greeting
+          </button>
+          <button
+            onclick="shareGreeting()"
+            class="w-full sm:w-auto flex items-center justify-center gap-2 bg-white hover:bg-wgray-10 border border-wgray-50 text-wgray-160 font-semibold py-3 px-6 rounded-xl transition-colors focus:outline-none focus:ring-2 focus:ring-wblue-100 focus:ring-offset-2"
+            aria-label="Share greeting"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
+            Share
+          </button>
+        </div>
+
+        <!-- Category Badge -->
+        <div class="text-center mt-6 slide-up" style="animation-delay: 0.4s">
+          <span class="inline-block bg-wspark-10 text-wspark-140 text-xs font-semibold px-3 py-1 rounded-full" id="greeting-category"></span>
+        </div>
+
+        <!-- Previous / Next Day -->
+        <div class="flex items-center justify-between mt-10 slide-up" style="animation-delay: 0.5s">
+          <button
+            onclick="changeDay(-1)"
+            class="text-sm text-wgray-100 hover:text-wblue-100 transition-colors flex items-center gap-1 focus:outline-none focus:underline"
+            aria-label="Previous day's greeting"
+          >
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+            Yesterday
+          </button>
+          <button
+            onclick="goToToday()"
+            class="text-sm font-semibold text-wblue-100 hover:underline focus:outline-none"
+            aria-label="Go to today's greeting"
+          >
+            Today
+          </button>
+          <button
+            onclick="changeDay(1)"
+            class="text-sm text-wgray-100 hover:text-wblue-100 transition-colors flex items-center gap-1 focus:outline-none focus:underline"
+            aria-label="Next day's greeting"
+          >
+            Tomorrow
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+          </button>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="py-4 text-center text-xs text-wgray-50">
+      <p>Made with 💛 — 366 unique greetings, one for every day of the year</p>
+    </footer>
+  </div>
+
+  <!-- Toast container -->
+  <div id="toast-container" class="fixed bottom-6 left-1/2 -translate-x-1/2 z-50"></div>
+
+  <script src="greetings.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
