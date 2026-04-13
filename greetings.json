@@ -1,0 +1,2018 @@
+[
+  {
+    "text": "Good morning, sunshine! Ready to make today legendary?",
+    "emoji": "☀️",
+    "tip": "Say it with a big smile and finger guns",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hey team! Let's turn coffee into code and dreams into deployments!",
+    "emoji": "☕",
+    "tip": "Hold up your coffee mug while saying it",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Rise and shine, rockstars! The world isn't ready for us today.",
+    "emoji": "🌟",
+    "tip": "Do a little air guitar after",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Top of the morning to ya! May your bugs be few and your commits be clean.",
+    "emoji": "🍀",
+    "tip": "Use your best Irish accent",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Ahoy, crew! All hands on deck — we've got greatness to ship!",
+    "emoji": "⚓",
+    "tip": "Salute like a captain",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Greetings, fellow humans! I come in peace… and with snacks.",
+    "emoji": "👽",
+    "tip": "Walk in robotically",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hey hey hey! It's a beautiful day to build beautiful things.",
+    "emoji": "🎨",
+    "tip": "Gesture grandly at nothing in particular",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "What's up, legends? Let's write some history today!",
+    "emoji": "📜",
+    "tip": "Unroll an imaginary scroll",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Buenos días, mi equipo fantástico! Today we conquer!",
+    "emoji": "🏔️",
+    "tip": "Plant an imaginary flag",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Good morning! Fun fact: you're all amazing. That's today's standup.",
+    "emoji": "💯",
+    "tip": "Pretend to close your laptop and walk away",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hello, brilliant minds! Let's brainstorm a storm today.",
+    "emoji": "🧠",
+    "tip": "Tap your temple wisely",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Yo! The A-Team has assembled. Let's get it!",
+    "emoji": "💪",
+    "tip": "Flex dramatically",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Howdy, partners! Saddle up — we're riding into productivity!",
+    "emoji": "🤠",
+    "tip": "Tip an imaginary cowboy hat",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Salutations, magnificent colleagues! Your awesomeness precedes you.",
+    "emoji": "👑",
+    "tip": "Do a royal bow",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hey squad! Today's forecast: 100% chance of crushing it.",
+    "emoji": "🌤️",
+    "tip": "Point at an imaginary weather map",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Good morning, dream team! Let's make the impossible just Tuesday.",
+    "emoji": "📅",
+    "tip": "Say it whatever day it is",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "What's good, fam? Let's stack some wins today!",
+    "emoji": "🏆",
+    "tip": "Stack imaginary trophies",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hello hello! The band is back together — let's drop a hit!",
+    "emoji": "🎸",
+    "tip": "Air guitar solo",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hola, amigos! Another day, another chance to be incredible.",
+    "emoji": "✨",
+    "tip": "Sprinkle imaginary glitter",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Greetings from the other side… of the weekend! Let's go!",
+    "emoji": "🎵",
+    "tip": "Sing it Adele-style",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Morning, champs! Your daily reminder: you're doing great.",
+    "emoji": "🥇",
+    "tip": "Hand out invisible medals",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hey there, superstars! Let's light up the scoreboard today.",
+    "emoji": "💫",
+    "tip": "Point at everyone like they're the star",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "What's cracking, innovators? Let's break some molds!",
+    "emoji": "🔨",
+    "tip": "Mime breaking something",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Bonjour, mes amis! Today we create, we collaborate, we celebrate!",
+    "emoji": "🇫🇷",
+    "tip": "Kiss your fingers like a French chef",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Morning crew! I hope your code compiles and your coffee's strong.",
+    "emoji": "💻",
+    "tip": "Type furiously in the air",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hey everyone! Reminder: we're not just a team — we're a force.",
+    "emoji": "🌊",
+    "tip": "Make a wave motion",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Rise up, champions! Today's to-do list doesn't stand a chance.",
+    "emoji": "📋",
+    "tip": "Crumple imaginary paper triumphantly",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hello, wonderful humans! Your presence makes this place better.",
+    "emoji": "🌻",
+    "tip": "Hand out imaginary sunflowers",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Good morning! Plot twist: today is going to be awesome.",
+    "emoji": "📖",
+    "tip": "Open an imaginary book dramatically",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hey team! Let's make today so productive, yesterday gets jealous.",
+    "emoji": "😎",
+    "tip": "Put on invisible sunglasses",
+    "category": "Warm & Classic"
+  },
+  {
+    "text": "Hello, World! — but make it personal. You're all 200 OK! ✅",
+    "emoji": "🖥️",
+    "tip": "Give everyone a thumbs up",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "git commit -m 'Started an amazing day with the best team'",
+    "emoji": "🔀",
+    "tip": "Type it out on an invisible keyboard",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Good morning! No merge conflicts here — just pure teamwork.",
+    "emoji": "🤝",
+    "tip": "Fist bump the nearest person",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "console.log('Hello, incredible team! 🚀');",
+    "emoji": "💻",
+    "tip": "Read it like you're debugging aloud",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "SELECT * FROM team WHERE awesome = true; — Returns: all of you!",
+    "emoji": "🗃️",
+    "tip": "Gesture at everyone in the room",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "sudo greet --force --with-enthusiasm 'Good morning, team!'",
+    "emoji": "🐧",
+    "tip": "Say it like a stern sysadmin, then smile",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Alert: CRITICAL — Dangerously high levels of talent detected in this room.",
+    "emoji": "🚨",
+    "tip": "Look around suspiciously",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "while(true) { be_awesome(); } — That's your only task today.",
+    "emoji": "♾️",
+    "tip": "Draw an infinity sign in the air",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Hey team! I'd rate us 10/10 — no NullPointerExceptions here!",
+    "emoji": "☕",
+    "tip": "Java developers, nod knowingly",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Deploying good vibes to production… ✅ Build successful!",
+    "emoji": "🟢",
+    "tip": "Press an imaginary deploy button",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Morning! Your daily standup: I'm here, you're here, let's ship it!",
+    "emoji": "🚢",
+    "tip": "Keep it under 15 seconds",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "pip install good-morning && pip install team-spirit",
+    "emoji": "🐍",
+    "tip": "Slither your way into the meeting",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Good morning! Today's sprint goal: be unstoppable.",
+    "emoji": "🏃",
+    "tip": "Start jogging in place",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "import { Greatness } from './team'; // Never fails to resolve!",
+    "emoji": "📦",
+    "tip": "Say it like a code review",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Hey team! Our uptime for awesomeness is 99.999%!",
+    "emoji": "📊",
+    "tip": "Draw a chart going up",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Ctrl+Z on yesterday, Ctrl+S on today's greatness!",
+    "emoji": "⌨️",
+    "tip": "Press invisible keys",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "docker run --name today -e MOOD=amazing teamwork:latest",
+    "emoji": "🐳",
+    "tip": "Blow like a whale",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Good morning! This team has zero technical debt in kindness.",
+    "emoji": "💚",
+    "tip": "Hand heart gesture",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "POST /api/greetings { 'message': 'You all rock!' } — 201 Created!",
+    "emoji": "📬",
+    "tip": "Mime sending a letter",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Hey! I just refactored my morning routine to include appreciating you.",
+    "emoji": "♻️",
+    "tip": "Take a bow",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "const mood = async () => await getTeam() ? 'AMAZING' : impossible;",
+    "emoji": "⚡",
+    "tip": "Snap your fingers",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Morning! chmod 777 good-vibes — everyone has access today!",
+    "emoji": "🔓",
+    "tip": "Spread your arms wide",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Just pushed a hotfix: MORE_ENTHUSIASM.patch — deploying now!",
+    "emoji": "🩹",
+    "tip": "Slap an invisible patch on",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Hello team! You're all part of the main branch — no forks needed!",
+    "emoji": "🌳",
+    "tip": "Hug an imaginary tree",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Today's build status: GREEN. Let's keep it that way, legends! 🟢",
+    "emoji": "✅",
+    "tip": "Double thumbs up",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Good morning! We're running on the latest version: TeamAwesome 2.0!",
+    "emoji": "🆙",
+    "tip": "Point upward",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Hey! Our kanban board has one card: 'Be incredible.' Status: In Progress.",
+    "emoji": "📌",
+    "tip": "Mime moving a sticky note",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Morning! rm -rf doubts && mkdir confidence — let's go!",
+    "emoji": "📂",
+    "tip": "Delete the air, then build it back",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "404: Bad Day Not Found. All systems nominal. Good morning!",
+    "emoji": "🔍",
+    "tip": "Peer through imaginary binoculars",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Hey team! yarn add motivation — Successfully installed!",
+    "emoji": "🧶",
+    "tip": "Tug an imaginary yarn",
+    "category": "Nerdy & Tech"
+  },
+  {
+    "text": "Good morning! Remember: diamonds are made under pressure. Shine today!",
+    "emoji": "💎",
+    "tip": "Hold up an imaginary diamond",
+    "category": "Motivational"
+  },
+  {
+    "text": "Today is a blank canvas, and we're all artists. Let's paint a masterpiece!",
+    "emoji": "🖼️",
+    "tip": "Make broad brush strokes in the air",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hey team! The only limit is our imagination — and our Wi-Fi bandwidth.",
+    "emoji": "📶",
+    "tip": "Look at the ceiling hopefully",
+    "category": "Motivational"
+  },
+  {
+    "text": "Morning, warriors! Every expert was once a beginner. Keep growing!",
+    "emoji": "🌱",
+    "tip": "Mime watering a plant",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hello! Today's mantra: Progress over perfection. Let's iterate!",
+    "emoji": "🔄",
+    "tip": "Spin around once",
+    "category": "Motivational"
+  },
+  {
+    "text": "Rise and grind! But also remember to rest. Balance, people, balance!",
+    "emoji": "⚖️",
+    "tip": "Teeter like a scale",
+    "category": "Motivational"
+  },
+  {
+    "text": "Good morning! You don't need permission to be amazing. Just be it!",
+    "emoji": "🦅",
+    "tip": "Spread your wings",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hey! A ship in harbor is safe, but that's not what ships are for. Let's sail!",
+    "emoji": "⛵",
+    "tip": "Shield your eyes and look at the horizon",
+    "category": "Motivational"
+  },
+  {
+    "text": "Morning! Small steps lead to big leaps. What's your first step today?",
+    "emoji": "👣",
+    "tip": "Take one deliberate step forward",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hello team! Be the energy you wish to see in the standup.",
+    "emoji": "⚡",
+    "tip": "Vibrate with enthusiasm",
+    "category": "Motivational"
+  },
+  {
+    "text": "Good morning! The best way to predict the future is to build it. Let's build!",
+    "emoji": "🏗️",
+    "tip": "Stack imaginary blocks",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hey legends! Comfort zones are nice, but nothing grows there. Let's stretch!",
+    "emoji": "🤸",
+    "tip": "Actually stretch",
+    "category": "Motivational"
+  },
+  {
+    "text": "Morning! You've survived 100% of your bad days. You're invincible!",
+    "emoji": "🛡️",
+    "tip": "Hold up an invisible shield",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hello! Today, let's be the reason someone smiles. Starting with me — 😁!",
+    "emoji": "😁",
+    "tip": "Flash the biggest grin possible",
+    "category": "Motivational"
+  },
+  {
+    "text": "Good morning! Teamwork makes the dream work, and we're dreamers!",
+    "emoji": "💭",
+    "tip": "Look dreamily into the distance",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hey team! Your vibe attracts your tribe — and this tribe is ELITE.",
+    "emoji": "🔥",
+    "tip": "Light match gesture",
+    "category": "Motivational"
+  },
+  {
+    "text": "Morning! Don't count the days — make the days count. Starting NOW!",
+    "emoji": "⏳",
+    "tip": "Flip an imaginary hourglass",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hello, unstoppable force! Meet today — your very movable object.",
+    "emoji": "🎯",
+    "tip": "Throw an imaginary dart",
+    "category": "Motivational"
+  },
+  {
+    "text": "Good morning! You are the WiFi in a room full of Ethernet — wireless magic!",
+    "emoji": "🪄",
+    "tip": "Wave an imaginary wand",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hey! Fall seven times, stand up eight. But let's just not fall today, yeah?",
+    "emoji": "🧗",
+    "tip": "Pretend to climb",
+    "category": "Motivational"
+  },
+  {
+    "text": "Morning! The comeback is always stronger than the setback. Let's go!",
+    "emoji": "🦾",
+    "tip": "Show off your robot arm",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hello team! Stars can't shine without darkness. But WE shine regardless!",
+    "emoji": "⭐",
+    "tip": "Jazz hands",
+    "category": "Motivational"
+  },
+  {
+    "text": "Good morning! Innovation isn't a destination — it's how we travel. Buckle up!",
+    "emoji": "🚀",
+    "tip": "Mime pulling a seatbelt",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hey! Today's weather: Brainstorms expected. Bring your best ideas-umbrella!",
+    "emoji": "🌧️",
+    "tip": "Open an imaginary umbrella",
+    "category": "Motivational"
+  },
+  {
+    "text": "Morning! Alone we're smart, together we're brilliant. Let's sparkle!",
+    "emoji": "💡",
+    "tip": "Turn on an imaginary lightbulb",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hello! Don't watch the clock — be the clock. Set the pace, team!",
+    "emoji": "⏰",
+    "tip": "Tick-tock with your head",
+    "category": "Motivational"
+  },
+  {
+    "text": "Good morning! Today we're not just moving mountains — we're BUILDING them.",
+    "emoji": "🏔️",
+    "tip": "Stack imaginary rocks",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hey team! You're all proof that talent + dedication = unstoppable.",
+    "emoji": "🧬",
+    "tip": "Point at everyone",
+    "category": "Motivational"
+  },
+  {
+    "text": "Morning! Mistakes are proof you're trying. So let's try EVERYTHING!",
+    "emoji": "🧪",
+    "tip": "Shake an imaginary test tube",
+    "category": "Motivational"
+  },
+  {
+    "text": "Hello! The elevator to success is broken — let's enjoy the stairs together!",
+    "emoji": "🪜",
+    "tip": "Climb imaginary stairs",
+    "category": "Motivational"
+  },
+  {
+    "text": "May the force be with us today… especially during code review!",
+    "emoji": "⚔️",
+    "tip": "Bow like a Jedi",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Good morning! In the words of Shrek: better out than in! Share your ideas!",
+    "emoji": "🧅",
+    "tip": "Peel an imaginary onion",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "I am Groot! …I mean, good morning, incredible team!",
+    "emoji": "🌳",
+    "tip": "Stand very still like a tree",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "To infinity and beyond! That's how far we're going today!",
+    "emoji": "🚀",
+    "tip": "Strike a Buzz Lightyear pose",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Winter is NOT coming — because we bring the HEAT! 🔥 Morning team!",
+    "emoji": "🐉",
+    "tip": "Breathe fire (figuratively)",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Good morning! As Dory says: just keep swimming, just keep shipping!",
+    "emoji": "🐠",
+    "tip": "Swim through the air",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey team! It's dangerous to go alone — take this team! 🗡️",
+    "emoji": "🎮",
+    "tip": "Hand out imaginary swords",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "We're the Avengers of productivity! Assemble, everyone!",
+    "emoji": "🦸",
+    "tip": "Strike a superhero landing pose",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Morning! This is the way. The way to an awesome day!",
+    "emoji": "🪖",
+    "tip": "Touch your forehead like Mando",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey! Are you a parking ticket? Because you've got FINE written all over you, team!",
+    "emoji": "🅿️",
+    "tip": "Double finger guns",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Good morning, Neo! Ready to dodge bugs in the Matrix today?",
+    "emoji": "🕶️",
+    "tip": "Dodge in slow motion",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Elementary, my dear team! Today's mystery: how to be even MORE awesome.",
+    "emoji": "🔎",
+    "tip": "Hold up a magnifying glass",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Luke, I am your team lead… and I believe in you! Morning!",
+    "emoji": "⭐",
+    "tip": "Heavy breathing noises",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hakuna Matata, team! It means no worries for the rest of the sprint!",
+    "emoji": "🦁",
+    "tip": "Walk in like Simba on Pride Rock",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Morning! Let's do this like The Office — chaotic but lovable.",
+    "emoji": "📎",
+    "tip": "Look directly at an imaginary camera",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "That's what she said! …she said, 'Good morning, amazing team!'",
+    "emoji": "😂",
+    "tip": "Michael Scott hand gesture",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey! You shall not pass… without getting a high five! ✋ Morning!",
+    "emoji": "🧙",
+    "tip": "Slam an imaginary staff",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Good morning! It's giving main character energy. And we're ALL mains.",
+    "emoji": "🎬",
+    "tip": "Walk in slow motion",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hello team! Just like Friends — I'll be there for you! 👏👏👏",
+    "emoji": "☕",
+    "tip": "Clap four times",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Morning! We're not just a team — we're a fellowship. To Mordor!",
+    "emoji": "💍",
+    "tip": "Hold up an imaginary ring",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Wakanda forever! Well, more like Team-kanda forever!",
+    "emoji": "🙅",
+    "tip": "Cross your arms over your chest",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Life is like a box of chocolates — today, every piece is a win!",
+    "emoji": "🍫",
+    "tip": "Use your best Forrest Gump voice",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Morning! We don't need roads where we're going! Just good vibes.",
+    "emoji": "🚗",
+    "tip": "Rev an imaginary DeLorean",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "I volunteer as tribute… to have the best day ever! You should too!",
+    "emoji": "🏹",
+    "tip": "Do the three-finger salute",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey team! It's a-me, your morning motivation! Let's-a go!",
+    "emoji": "🍄",
+    "tip": "Jump and punch the air",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Good morning! With great power comes great responsibility. And great coffee.",
+    "emoji": "🕷️",
+    "tip": "Shoot webs at the coffee machine",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Wubba lubba dub dub! Just kidding — I'm genuinely happy to see you all!",
+    "emoji": "🧪",
+    "tip": "Burp (optional, not recommended)",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey! Today we're Beyoncé-level flawless. I woke up like this.",
+    "emoji": "👸",
+    "tip": "Hair flip",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Morning! Keep calm and ship features. That's the British way.",
+    "emoji": "🇬🇧",
+    "tip": "Sip tea with pinky out",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Winter Soldier reporting for duty! Your mission: have an awesome day.",
+    "emoji": "🦾",
+    "tip": "Snap to attention",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey team! We're about to drop the hottest sprint this side of Spotify.",
+    "emoji": "🎧",
+    "tip": "Put on imaginary headphones",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Good morning! I came, I saw, I caffeinated. Veni, Vidi, Coffee.",
+    "emoji": "☕",
+    "tip": "Raise your coffee cup dramatically",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hello, is it us you're looking for? Lionel Richie approves this team!",
+    "emoji": "🎤",
+    "tip": "Sing it",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Morning! This team is one in a minion! Bello, everyone!",
+    "emoji": "🟡",
+    "tip": "Talk in Minion gibberish",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Why so serious? Let's put a SMILE on that standup! Morning, team!",
+    "emoji": "🃏",
+    "tip": "Do a dramatic card trick",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey! As Ted Lasso says: Be a goldfish. Forget yesterday, crush today!",
+    "emoji": "🐠",
+    "tip": "Tap the 'BELIEVE' sign",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Good morning! We're not just good — we're Gouda! 🧀 (That's cheesy, I know.)",
+    "emoji": "🧀",
+    "tip": "Accept the groans",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Oh captain, my captain! Morning, team — let's stand on some desks!",
+    "emoji": "📚",
+    "tip": "Stand on your chair (carefully)",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Bazinga! Today's experiment: maximum fun, minimum bugs!",
+    "emoji": "🔬",
+    "tip": "Sheldon Cooper knock x3",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "Hey team! Ogres have layers. Teams have layers. We're deep. Good morning!",
+    "emoji": "🧅",
+    "tip": "Peel back imaginary layers",
+    "category": "Pop Culture"
+  },
+  {
+    "text": "It's a beautiful day in the neighborhood! Won't you be my teammate?",
+    "emoji": "🏡",
+    "tip": "Put on a cardigan",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Whether it's raining or shining — we bring our own sunshine! ☀️",
+    "emoji": "🌈",
+    "tip": "Draw a rainbow in the air",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Like the seasons, we're always evolving and growing!",
+    "emoji": "🍂",
+    "tip": "Twirl like a falling leaf",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hello team! Even on cloudy days, we're above the clouds. ✈️",
+    "emoji": "☁️",
+    "tip": "Zoom around like an airplane",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Spring is here and so are fresh ideas! Let's bloom!",
+    "emoji": "🌸",
+    "tip": "Open your hands like a flower",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey! Summer vibes, summer energy, summer-time shipping! Let's go!",
+    "emoji": "🏖️",
+    "tip": "Apply imaginary sunscreen",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Like autumn leaves, let's let go of what doesn't work!",
+    "emoji": "🍁",
+    "tip": "Drop something dramatically",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning, snowflakes! Each of you is unique and beautiful. ❄️",
+    "emoji": "⛄",
+    "tip": "Catch imaginary snowflakes",
+    "category": "Seasonal"
+  },
+  {
+    "text": "It's a fresh start kind of morning! Like the first snow — clean slate!",
+    "emoji": "🌨️",
+    "tip": "Wipe an imaginary whiteboard",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! We're hotter than a summer day and cooler than winter breeze!",
+    "emoji": "🌡️",
+    "tip": "Fan yourself, then shiver",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey team! Even storms bring rainbows. Let's be the rainbow today! 🌈",
+    "emoji": "⛈️",
+    "tip": "Do jazz hands for the rainbow",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Like cherry blossoms, let's make this fleeting day beautiful!",
+    "emoji": "🌸",
+    "tip": "Catch falling imaginary petals",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hello! The forecast says 100% chance of excellence. Dress accordingly!",
+    "emoji": "🌤️",
+    "tip": "Put on imaginary sunglasses",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Like a garden, our team grows stronger every day! 🌻",
+    "emoji": "🌷",
+    "tip": "Water your colleagues (figuratively)",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey! The sun came up — that's a green light for greatness! Go!",
+    "emoji": "🌅",
+    "tip": "Shield your eyes from greatness",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Even on gray days, WE are the color in the room!",
+    "emoji": "🎨",
+    "tip": "Splash imaginary paint",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Let's be like the tide — consistent, powerful, and unstoppable!",
+    "emoji": "🌊",
+    "tip": "Do a wave (the human kind)",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey team! New day, new dew, new opportunities! Fresh as morning grass!",
+    "emoji": "🌿",
+    "tip": "Take a deep breath",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Like a sunrise, let's start slow and end up lighting up the sky!",
+    "emoji": "🌄",
+    "tip": "Slowly raise your arms",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hello! Wind, rain, or shine — this team delivers. Always. 📦",
+    "emoji": "📮",
+    "tip": "Mime delivering a package",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Like the moon, we shine even in the darkest times! 🌙",
+    "emoji": "🌕",
+    "tip": "Glow mysteriously",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey! The harvest of hard work is here — let's reap what we've sown!",
+    "emoji": "🌾",
+    "tip": "Swing an imaginary scythe",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning team! Cozy weather, warm hearts, hot code! Let's go!",
+    "emoji": "🧣",
+    "tip": "Wrap an imaginary scarf",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Like the Northern Lights — we're rare, beautiful, and electric!",
+    "emoji": "🌌",
+    "tip": "Shimmer and sway",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey! Think of today like a fresh blanket of snow — untouched potential!",
+    "emoji": "❄️",
+    "tip": "Make a snow angel (on the floor optional)",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! May your day be as bright as a summer solstice! ☀️",
+    "emoji": "🌞",
+    "tip": "Radiate warmth",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hello! Like fireflies on a summer night — let's each bring our own light!",
+    "emoji": "✨",
+    "tip": "Flicker like a firefly",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Thunder and lightning? Nah — that's just our ENERGY!",
+    "emoji": "⚡",
+    "tip": "Zeus pose",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey team! Let's migrate toward success like geese — in formation!",
+    "emoji": "🦆",
+    "tip": "Waddle into the meeting",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Like a pine tree in winter — we stay evergreen and resilient!",
+    "emoji": "🌲",
+    "tip": "Stand tall and proud",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! The world is thawing — time to break the ice! Hello, everyone!",
+    "emoji": "🧊",
+    "tip": "Crack imaginary ice",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey! Today is sun-kissed and team-blessed. Let's bask in it!",
+    "emoji": "🌻",
+    "tip": "Turn your face to imaginary sun",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Whether monsoon or sunshine — we show up. And we show OUT!",
+    "emoji": "💃",
+    "tip": "Dance in the imaginary rain",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hello team! Like a glacier — we move slow but we reshape EVERYTHING!",
+    "emoji": "🏔️",
+    "tip": "Move very slowly and deliberately",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! It's wildflower season — grow wherever you're planted!",
+    "emoji": "🌺",
+    "tip": "Bloom where you stand",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey! The days are getting longer — more hours to be awesome! Morning!",
+    "emoji": "⏰",
+    "tip": "Stretch time like taffy",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Like a butterfly emerging — today we transform! 🦋",
+    "emoji": "🐛",
+    "tip": "Break out of an imaginary cocoon",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! April showers bring May flowers — and Q2 features! 🌼",
+    "emoji": "🌧️",
+    "tip": "Twirl an imaginary umbrella",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey team! Like a kite in the wind — we soar when conditions are right!",
+    "emoji": "🪁",
+    "tip": "Hold an imaginary kite string",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Hot cocoa weather? More like hot CODE weather! Let's brew! ☕",
+    "emoji": "🍵",
+    "tip": "Blow on imaginary hot cocoa",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! The stars aligned for this team. We're cosmic!",
+    "emoji": "🌠",
+    "tip": "Point at imaginary constellations",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hello! Like the first robin of spring — we herald something beautiful!",
+    "emoji": "🐦",
+    "tip": "Chirp cheerfully",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Foggy outside? Crystal clear in here — we know what to do!",
+    "emoji": "🌫️",
+    "tip": "Part the imaginary fog",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Like a beach at sunrise — peaceful, ready, full of promise!",
+    "emoji": "🏖️",
+    "tip": "Listen to imaginary waves",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey team! Pumpkin spice and everything nice — that's this team! 🎃",
+    "emoji": "🍂",
+    "tip": "Sip an imaginary PSL",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Like migrating whales — we move with purpose and power! 🐋",
+    "emoji": "🌊",
+    "tip": "Breach like a whale",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Snowstorm? We're the snow PLOW! Nothing stops us!",
+    "emoji": "🚜",
+    "tip": "Drive an imaginary plow",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Hey! Today is as crisp as a fall apple — fresh and ready to bite into!",
+    "emoji": "🍎",
+    "tip": "Crunch into an imaginary apple",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Morning! Like the equinox — today we find perfect balance!",
+    "emoji": "☯️",
+    "tip": "Do a tai chi move",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! Tidal wave of productivity incoming — surf's up! 🏄",
+    "emoji": "🌊",
+    "tip": "Strike a surfer pose",
+    "category": "Seasonal"
+  },
+  {
+    "text": "Good morning! You're all a pizza my heart! Let's slice through today's tasks!",
+    "emoji": "🍕",
+    "tip": "Share an imaginary slice",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey team! Espresso yourselves today! Brew up some brilliant ideas!",
+    "emoji": "☕",
+    "tip": "Pull an imaginary espresso shot",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! Today is going to be egg-cellent! Over easy on the challenges!",
+    "emoji": "🍳",
+    "tip": "Crack an imaginary egg",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! You're all the cream in my coffee — essential and delightful!",
+    "emoji": "🥛",
+    "tip": "Pour imaginary cream",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! Let's taco 'bout how amazing this team is! 🌮",
+    "emoji": "🌮",
+    "tip": "Build an imaginary taco",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! Donut worry about yesterday — today is a fresh batch!",
+    "emoji": "🍩",
+    "tip": "Munch on an imaginary donut",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! Life gave us lemons, so we made lemonade… and a web app!",
+    "emoji": "🍋",
+    "tip": "Squeeze imaginary lemons",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello team! You're all soda-lightful! Let's fizz with energy today!",
+    "emoji": "🥤",
+    "tip": "Pop open an imaginary can",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! Like a smoothie — we're a perfect blend of talents!",
+    "emoji": "🥤",
+    "tip": "Blend imaginary ingredients",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! Lettuce turnip the beet! Morning, you beautiful salad of humans!",
+    "emoji": "🥗",
+    "tip": "Toss an imaginary salad",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! We're on a roll today — butter believe it! 🧈",
+    "emoji": "🥐",
+    "tip": "Spread imaginary butter",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! I'm soy happy to see you all! Miso glad we're a team! 🍜",
+    "emoji": "🥢",
+    "tip": "Slurp imaginary noodles",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! This team is soup-er! Nothing but stock talent here!",
+    "emoji": "🍲",
+    "tip": "Stir an imaginary pot",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey team! Like a fine wine, we get better with time! Cheers to us! 🥂",
+    "emoji": "🍷",
+    "tip": "Clink imaginary glasses",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! You're all the cherry on top of this amazing sundae! 🍒",
+    "emoji": "🍨",
+    "tip": "Place an imaginary cherry",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! Waffling on ideas? Let's syrup our creativity today! 🧇",
+    "emoji": "🥞",
+    "tip": "Stack imaginary waffles",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! We're nacho average team! Let's get cheesy today!",
+    "emoji": "🧀",
+    "tip": "Dip imaginary nachos",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! Keep calm and curry on! Spicing up another beautiful day! 🍛",
+    "emoji": "🌶️",
+    "tip": "Fan your mouth from imaginary spice",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! Life is brew-tiful with this team! Let's percolate some ideas!",
+    "emoji": "☕",
+    "tip": "Brew imaginary coffee",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello team! You're all un-BEET-able! Root for each other today! 🥕",
+    "emoji": "🥕",
+    "tip": "Munch imaginary carrots",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! Let's raisin the bar today! Grape things are coming!",
+    "emoji": "🍇",
+    "tip": "Pop imaginary grapes",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! Olive you guys so much! Let's press on and oil up the machine!",
+    "emoji": "🫒",
+    "tip": "Squeeze imaginary olives",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! This team is one in a melon! Water you all up to today? 🍉",
+    "emoji": "🍈",
+    "tip": "Slice an imaginary watermelon",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! Like a perfect recipe — each of you adds the secret ingredient!",
+    "emoji": "👨‍🍳",
+    "tip": "Kiss your fingers like a chef",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! We're berry excited for today! Straw-berry much! 🍓",
+    "emoji": "🍓",
+    "tip": "Pick imaginary berries",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey team! Like sushi — we're a tight roll! Let's stick together!",
+    "emoji": "🍣",
+    "tip": "Roll imaginary sushi",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! Peas and love to the best team! Let's pod through tasks!",
+    "emoji": "🫛",
+    "tip": "Shell imaginary peas",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! Sweet as honey, strong as coffee — that's us! Good morning! 🍯",
+    "emoji": "🐝",
+    "tip": "Buzz around the room",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! Let's cook up some success! The kitchen is HOT! 🔥",
+    "emoji": "👩‍🍳",
+    "tip": "Put on an imaginary apron",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! I knead this team like bread needs dough! Rising together! 🍞",
+    "emoji": "🥖",
+    "tip": "Knead imaginary dough",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! You're all hot stuff — like fresh cookies from the oven! 🍪",
+    "emoji": "🍪",
+    "tip": "Fan imaginary hot cookies",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello team! Like bubble tea — we're unique, fun, and always a treat! 🧋",
+    "emoji": "🧋",
+    "tip": "Sip through an imaginary big straw",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! We're the whole enchilada, baby! Full package team!",
+    "emoji": "🫔",
+    "tip": "Unwrap imaginary foil",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! Time to spill the tea — and the tea is: WE'RE AMAZING! ☕",
+    "emoji": "🫖",
+    "tip": "Pour imaginary tea dramatically",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! Like a charcuterie board — diverse, curated, and irresistible!",
+    "emoji": "🧀",
+    "tip": "Arrange imaginary cheese",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! We're breading new ground today! Loaf is in the air!",
+    "emoji": "🍞",
+    "tip": "Sniff imaginary fresh bread",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! Let's stir things up! This team is a perfect blend!",
+    "emoji": "🥄",
+    "tip": "Stir an imaginary cauldron",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey team! You're all a-MAIZE-ing! Let's pop off today! 🍿",
+    "emoji": "🌽",
+    "tip": "Listen to imaginary popping",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! Like ramen — we're HOT, deep, and full of layers! 🍜",
+    "emoji": "🍜",
+    "tip": "Blow on imaginary ramen",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! This team takes the cake! Layer by layer, we're magnificent! 🎂",
+    "emoji": "🎂",
+    "tip": "Blow out imaginary candles",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! You're all gems — rare, precious, and worth mining! 💎",
+    "emoji": "⛏️",
+    "tip": "Mine for imaginary gems",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! Let's chai harder today! Steep in success!",
+    "emoji": "🍵",
+    "tip": "Steep an imaginary tea bag",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! Like a potluck — everyone brings something amazing to the table!",
+    "emoji": "🍽️",
+    "tip": "Set an imaginary table",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello team! You're all a-dough-rable! Let's rise to the occasion!",
+    "emoji": "🥨",
+    "tip": "Twist imaginary pretzel dough",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! We're on FYRE! (The good kind, not the festival.)",
+    "emoji": "🔥",
+    "tip": "Blow on imaginary campfire marshmallows",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey! Like a banana split — we're better together! Morning, team!",
+    "emoji": "🍌",
+    "tip": "Peel an imaginary banana",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Morning! This team is a real peach! Let's be peachy keen today!",
+    "emoji": "🍑",
+    "tip": "Hold up an imaginary peach",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hello! Life's uncertain — eat dessert first! And greet your team!",
+    "emoji": "🍰",
+    "tip": "Cut an imaginary cake",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning! Like instant noodles — quick, satisfying, and always there!",
+    "emoji": "🍜",
+    "tip": "Add imaginary hot water",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Hey team! We're crackers! In the best possible way! Morning! 🧂",
+    "emoji": "🥜",
+    "tip": "Crack open imaginary nuts",
+    "category": "Food & Drink"
+  },
+  {
+    "text": "Good morning, busy bees! Let's make some honey today! 🍯",
+    "emoji": "🐝",
+    "tip": "Do a waggle dance",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey team! Like wolves, we hunt success in packs! Awoooo! 🐺",
+    "emoji": "🐺",
+    "tip": "Howl (softly, it's an office)",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! We're the GOAT team! Greatest Of All Teams! 🐐",
+    "emoji": "🐐",
+    "tip": "Bleat once, assertively",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello, magnificent eagles! Let's soar above the competition! 🦅",
+    "emoji": "🦅",
+    "tip": "Spread your wings",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like otters, let's hold hands and float through this day!",
+    "emoji": "🦦",
+    "tip": "Link arms with a colleague",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! Slow and steady wins the race. But ALSO let's be cheetahs! 🐆",
+    "emoji": "🐢",
+    "tip": "Start slow, then sprint in place",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like dolphins — smart, playful, and great communicators!",
+    "emoji": "🐬",
+    "tip": "Click and whistle",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello team! We're bear-y strong together! Let's hibernate on laziness!",
+    "emoji": "🐻",
+    "tip": "Give a bear hug",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like elephants — we never forget our goals! 🐘",
+    "emoji": "🐘",
+    "tip": "Trumpet like an elephant",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! We're purrfect together! Feline good about today, team! 🐱",
+    "emoji": "🐱",
+    "tip": "Purr contentedly",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like penguins — we march together through any blizzard! 🐧",
+    "emoji": "🐧",
+    "tip": "Waddle to your desk",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello! Hawk-eye focus today, team! We see every detail! 🦅",
+    "emoji": "🦅",
+    "tip": "Narrow your eyes dramatically",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like a chameleon — we adapt to any challenge! 🦎",
+    "emoji": "🦎",
+    "tip": "Change your expression rapidly",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey team! Ant-mazing work ethic! Together, we carry mountains! 🐜",
+    "emoji": "🐜",
+    "tip": "March in formation",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like owls — wise, watchful, and working in the dark (mode)!",
+    "emoji": "🦉",
+    "tip": "Rotate your head slowly (not 360)",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello! We're a pride of lions — regal, united, and fierce! 🦁",
+    "emoji": "🦁",
+    "tip": "ROAR (indoor voice)",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like coral reefs — diverse, beautiful, and full of life!",
+    "emoji": "🪸",
+    "tip": "Wave like underwater plants",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! We're flamingo-fabulous! Standing out and standing tall!",
+    "emoji": "🦩",
+    "tip": "Stand on one leg",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like a dog with a bone — we DON'T let go until it's done! 🦴",
+    "emoji": "🐕",
+    "tip": "Pant enthusiastically",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello team! We move like a murmuration of starlings — in perfect sync!",
+    "emoji": "🐦",
+    "tip": "Sway in unison",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like octopi — flexible, smart, and multi-armed! 🐙",
+    "emoji": "🐙",
+    "tip": "Wiggle eight imaginary arms",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! Unbee-lievably good team! Let's pollinate some ideas!",
+    "emoji": "🌼",
+    "tip": "Float between people like a bee",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like a tortoise shell — we're tough on the outside, golden inside!",
+    "emoji": "🐢",
+    "tip": "Retreat into your jacket briefly",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello! Like salmon — we swim upstream! No current stops us! 🐟",
+    "emoji": "🐟",
+    "tip": "Swim upstream (against the crowd)",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! We're kangaroo-cool! Hopping into action! 🦘",
+    "emoji": "🦘",
+    "tip": "Hop to your desk",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey team! Parrot me: 'We are amazing!' 🦜 Say it back!",
+    "emoji": "🦜",
+    "tip": "Cup your ear",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like a peacock — we display our best feathers today! 🦚",
+    "emoji": "🦚",
+    "tip": "Fan out your arms",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello! Spider-team, spider-team! We spin webs of collaboration! 🕷️",
+    "emoji": "🕸️",
+    "tip": "Spin an imaginary web",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like a caterpillar to a butterfly — watch us transform! 🦋",
+    "emoji": "🦋",
+    "tip": "Emerge from your jacket",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! We're platypus-level unique — weird, wonderful, and one-of-a-kind!",
+    "emoji": "🦫",
+    "tip": "Embrace the weirdness",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like fireants — tiny but mighty when we work together! 🔥",
+    "emoji": "🐜",
+    "tip": "March in tight formation",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello team! We're panda-monium! Cute, cuddly, and surprisingly strong!",
+    "emoji": "🐼",
+    "tip": "Munch imaginary bamboo",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like a bald eagle — majestic, free, and laser-focused!",
+    "emoji": "🦅",
+    "tip": "Gaze into the distance majestically",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! We're whale-come to success! Going DEEP today! 🐳",
+    "emoji": "🐋",
+    "tip": "Blow like a whale's blowhole",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like a fox — clever, quick, and always thinking ahead! 🦊",
+    "emoji": "🦊",
+    "tip": "Stroke your imaginary fox chin",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello! Like a meadow full of wildflowers — we each bloom differently! 🌻",
+    "emoji": "🌺",
+    "tip": "Stand at different heights",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Monkey see, monkey do — monkey sees GREATNESS! 🐒",
+    "emoji": "🐵",
+    "tip": "Beat your chest gently",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey team! Like starfish — even if we lose a limb, we regenerate! ⭐",
+    "emoji": "🌟",
+    "tip": "Spread out your arms wide",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! We're turtle-y awesome! Shell yeah! 🐢",
+    "emoji": "🐢",
+    "tip": "Do everything slowly, then speed up",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello! Like a hive — every bee matters. Every one of you matters! 🐝",
+    "emoji": "🍯",
+    "tip": "Point at each person",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like redwoods — we stand tall, deep-rooted, and together! 🌲",
+    "emoji": "🌳",
+    "tip": "Link arms like intertwined roots",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! Toucan play at this game! Let's color outside the lines today! 🦜",
+    "emoji": "🌈",
+    "tip": "Flash your brightest outfit",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like a river — we find a way around every obstacle! 🏞️",
+    "emoji": "💧",
+    "tip": "Flow around furniture",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello team! We're koala-fied for greatness! Let's eucalyp-THIS day!",
+    "emoji": "🐨",
+    "tip": "Cling to your desk adorably",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like a pack of huskies — we pull together through anything! 🐕‍🦺",
+    "emoji": "❄️",
+    "tip": "Mush! Pull imaginary sled",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey! We're the cat's meow! Paws-itively the best team around!",
+    "emoji": "🐈",
+    "tip": "Clean your face like a cat",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Morning! Like crows — smart, resourceful, and we remember EVERYTHING!",
+    "emoji": "🐦‍⬛",
+    "tip": "Tilt your head and stare knowingly",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hello! Bee yourself today! There's nobody better at it! 🐝",
+    "emoji": "🌸",
+    "tip": "Just be your wonderful self",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! Like a sunrise on the Serengeti — wild, epic, and ours!",
+    "emoji": "🌅",
+    "tip": "Watch the imaginary horizon",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Hey team! Like baby ducks — we follow each other to success! 🐤",
+    "emoji": "🐥",
+    "tip": "Walk in a line",
+    "category": "Animal & Nature"
+  },
+  {
+    "text": "Good morning! If today were a song, let's make it a banger.",
+    "emoji": "🎵",
+    "tip": "Snap your fingers rhythmically",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey! The journey of a thousand features begins with a single commit.",
+    "emoji": "🛤️",
+    "tip": "Take one symbolic step",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! We're not just building software — we're building the future.",
+    "emoji": "🔮",
+    "tip": "Gaze into an imaginary crystal ball",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello! In a world of tabs vs spaces, BE the indentation that holds it together.",
+    "emoji": "🧘",
+    "tip": "Find your center",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! The best code is written by happy developers. Be happy! 😊",
+    "emoji": "💝",
+    "tip": "Smile at someone genuinely",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey team! We don't just connect the dots — we ARE the dots.",
+    "emoji": "✡️",
+    "tip": "Form a constellation with your hands",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! Like a fractal — the closer you look, the more beauty you find.",
+    "emoji": "🔬",
+    "tip": "Look closely at something",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello! Every sunset is also a sunrise somewhere else. Fresh perspectives!",
+    "emoji": "🌇",
+    "tip": "Turn around and see things differently",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! We're all just walking each other home. Let's walk together.",
+    "emoji": "🚶",
+    "tip": "Walk with someone today",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey! If we were a book, today is a fresh chapter. Plot twist incoming!",
+    "emoji": "📖",
+    "tip": "Turn an imaginary page",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! The only constant is change — and our team's awesomeness.",
+    "emoji": "🔄",
+    "tip": "Spin around once philosophically",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello team! Like water — be formless, shapeless, adaptable. Morning!",
+    "emoji": "💧",
+    "tip": "Flow like Bruce Lee",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! Your thoughts become your code, so think beautiful thoughts.",
+    "emoji": "🧠",
+    "tip": "Close your eyes for a moment",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey! We're ripples in a pond — our actions touch everyone around us.",
+    "emoji": "🌀",
+    "tip": "Make a ripple motion with your hands",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! Time is the one resource we can't refactor. Let's use it wisely.",
+    "emoji": "⏳",
+    "tip": "Pause and appreciate the moment",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello! Like a prism — one light enters, and MANY colors emerge. That's us!",
+    "emoji": "🌈",
+    "tip": "Spread your fingers like light refracting",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! The world needs what only THIS team can build.",
+    "emoji": "🌍",
+    "tip": "Hold the world in your hands",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey! Yesterday is history, tomorrow is a mystery, today is a gift. Unwrap it!",
+    "emoji": "🎁",
+    "tip": "Unwrap an imaginary present",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! In the orchestra of life, each of you plays a vital note.",
+    "emoji": "🎼",
+    "tip": "Conduct an imaginary orchestra",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello team! The map is not the territory — let's explore beyond the backlog!",
+    "emoji": "🗺️",
+    "tip": "Roll out an imaginary map",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! Code is poetry, bugs are typos, and we're all editors.",
+    "emoji": "✒️",
+    "tip": "Write in the air gracefully",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey! Be the pull request you wish to see in the codebase.",
+    "emoji": "🪞",
+    "tip": "Look at yourself approvingly",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! Like jazz — the spaces between the notes matter most.",
+    "emoji": "🎷",
+    "tip": "Leave a meaningful pause",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello! We're planting trees today whose shade we may never sit in.",
+    "emoji": "🌳",
+    "tip": "Plant an imaginary seed",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! Gravity keeps us grounded, but dreams give us wings.",
+    "emoji": "🪽",
+    "tip": "Float slightly on your toes",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey team! In the algorithm of life, kindness has the best big-O notation.",
+    "emoji": "📐",
+    "tip": "Draw O(1) in the air",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! Like a mosaic — we're made of broken pieces, and we're art.",
+    "emoji": "🎨",
+    "tip": "Arrange imaginary tiles",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello! Mountains are climbed one step at a time. Step one: this greeting!",
+    "emoji": "⛰️",
+    "tip": "Take an intentional step",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! The best diff you can make today is a positive one.",
+    "emoji": "➕",
+    "tip": "Add something good to someone's day",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey! We're not just pixels on a screen — we're stories being written.",
+    "emoji": "📝",
+    "tip": "Write a line in the air",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! Today's meditation: we ARE enough. We HAVE enough. Let's go.",
+    "emoji": "🧘",
+    "tip": "Take three deep breaths",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello team! The universe didn't assemble this team by accident.",
+    "emoji": "🌌",
+    "tip": "Look up and smile at the universe",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! Be like a tree: stay grounded, keep growing, bend don't break.",
+    "emoji": "🌿",
+    "tip": "Sway gently like a tree",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey! In the API of life — always return 200 OK with a body of kindness.",
+    "emoji": "💌",
+    "tip": "Send a kind message to someone",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! Remember: debuggers find bugs. YOU find solutions.",
+    "emoji": "🔧",
+    "tip": "Point at yourself confidently",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello! Like a quilt — each patch is different, but together we're warm.",
+    "emoji": "🧵",
+    "tip": "Wrap imaginary warmth around everyone",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Good morning! The quietest voice in the room might have the loudest idea.",
+    "emoji": "🤫",
+    "tip": "Lean in and listen",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hey team! We're a palindrome — no matter how you read us, we're the same!",
+    "emoji": "🔁",
+    "tip": "Walk backwards, same energy",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Morning! Today, be the cache that always hits. Never miss an opportunity.",
+    "emoji": "🎯",
+    "tip": "Throw a bullseye dart",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "Hello! We're all rough drafts — and that's the beauty. Keep iterating.",
+    "emoji": "📝",
+    "tip": "Erase and rewrite in the air",
+    "category": "Deep Thoughts"
+  },
+  {
+    "text": "GOOD MORNING! I'd shout it from a mountain but Slack is faster! 🏔️",
+    "emoji": "📣",
+    "tip": "Yell (with love)",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Morning! If we were a band, we'd be The Rolling Deploys! Let's rock!",
+    "emoji": "🎸",
+    "tip": "Full air band performance",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Hey! I trained a neural network to generate this greeting. Just kidding. OR AM I?",
+    "emoji": "🤖",
+    "tip": "Blink rapidly",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Good morning! On a scale of 1 to 10, you're all an 11. Sorry, math!",
+    "emoji": "🔢",
+    "tip": "Count to 11 on your fingers (good luck)",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Hello! I wanted to greet you in interpretive dance, but here we are.",
+    "emoji": "💃",
+    "tip": "Still do the interpretive dance",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Morning! If good vibes were currency, we'd be billionaires! 💸",
+    "emoji": "🤑",
+    "tip": "Make it rain imaginary bills",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Hey team! I just invented a new word: TEAMTASTIC! And you all define it!",
+    "emoji": "📖",
+    "tip": "Open an imaginary dictionary",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Good morning! Plot twist: I'm actually a golden retriever in a trenchcoat.",
+    "emoji": "🐕",
+    "tip": "Wag your imaginary tail",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Hello! If this greeting were a movie, it'd be a blockbuster! Morning!",
+    "emoji": "🎬",
+    "tip": "Action! Cut! Award!",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Morning! I googled 'best team ever' and it just showed a mirror! 🪞",
+    "emoji": "🔍",
+    "tip": "Show everyone an imaginary mirror",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Hey! Warning: Side effects of this team include happiness and productivity!",
+    "emoji": "💊",
+    "tip": "Read like a drug commercial",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Good morning! This is my 'I woke up and chose EXCELLENCE' face! 😤",
+    "emoji": "😤",
+    "tip": "Make the face",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Hello team! If we were a meme, we'd go viral! Morning, legends!",
+    "emoji": "📱",
+    "tip": "Strike a meme-worthy pose",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Morning! Breaking news: This team continues to be absolutely unreal! 📰",
+    "emoji": "🗞️",
+    "tip": "Read from an imaginary newspaper",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Hey! On today's episode of 'Being Awesome': US! Stay tuned! 📺",
+    "emoji": "🎙️",
+    "tip": "Hold an imaginary microphone",
+    "category": "Wild & Wacky"
+  },
+  {
+    "text": "Good morning! Leap day or regular day — we always jump higher! 🐸",
+    "emoji": "🐸",
+    "tip": "Ribbit and hop",
+    "category": "Wild & Wacky"
+  }
+]

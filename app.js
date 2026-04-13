@@ -169,5 +169,5 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Home' || e.key === 'Escape') goToToday();
 });
 
-// Initial render
-renderGreeting();
+// Initial render — wait for greetings to load
+loadGreetings().then(() => renderGreeting());
